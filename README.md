@@ -64,5 +64,5 @@ Long-term trade resilience will depend on infrastructure, diversification, trans
 
 ---
 
-## 📌 Skills Demonstrated
+## Skills Demonstrated
 Data Cleaning | Trade Analytics | Time-Series Trend Analysis | Forecasting | Dashboard Development | Economic Interpretation | Strategic Insights
